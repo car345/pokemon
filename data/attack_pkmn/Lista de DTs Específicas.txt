@@ -1,0 +1,114 @@
+14 Giro Fuego
+39 Remolino
+56 Golpe Cuerpo
+58 Derribo
+76 Rayo Aurora
+87 Drenadoras
+99 Hipnosis
+108 Recuperación
+114 Rizo Defensa
+120 Venganza
+127 Residuos
+148 Puño Mareo
+170 Síntesis
+188 Palmeo
+199 Tajo Aéreo
+203 Giro Rápido
+215 Persecución
+225 Pesadilla
+236 Finta
+242 Púas
+244 Mismo Destino
+254 Rodar
+258 Corte Furia
+267 Divide Dolor
+276 Sol Matinal
+275 Tiro Vital
+277 Luz Lunar
+289 Reserva
+290 Escupir
+291 Tragar
+304 Imitación
+310 Reciclaje
+311 Desquite
+332 Bola Hielo
+340 Meteorobola
+342 Llanto Falso
+350 Masa Cósmica
+356 Bucle Arena
+358 Agua Lodosa
+369 Hoja Mágica
+388 Represión Metal
+403 Castigo
+415 Carga Dragón
+425 Maquinación
+426 Puño Bala
+430 Bomba Fango
+431 Psicocorte
+433 Disparo Espejo
+440 Latigazo
+447 Trampa Rocas
+451 Rayo Carga
+457 Testarazo
+466 Viento Aciago
+475 Concha Filo
+479 Afilagarras
+482 Infortunio
+496 Electrotela
+502 Golpe Calor
+511 Llave Giro
+527 Cuerpo Pesado
+537 Niebla Clara
+538 Chuzos
+558 Rizo Algodón
+571 Carga Parábola
+572 Llama Embrujada
+573 Voz Cautivadora
+580 Red Viscosa
+582 Golpe Fantasma
+594 Halloween
+697 Plancha Corporal
+705 Vasto Impacto
+712 Gota Vital
+718 Allanador férreo
+720 Viraje
+721 Golpe rastrero
+723 Ráfaga escamas
+724 Alto voltaje
+728 Envidia ardiente
+727 Poltergeist
+731 Triple axel
+734 Pulso de campo
+736 Fitoimpulso
+738 Vasta fuerza
+739 Rayo meteórico
+742 Arenas ardientes
+743 Gas corrosivo
+745 Ala bis
+747 Pikaturbo
+748 Pikapicado
+749 Salpikasurf
+750 Pikatormenta
+751 Eevimpacto
+752 Vapodrenaje
+753 Joltioparálisis
+754 Flarembestida
+755 Umbreozona
+756 Espeaura
+757 Leafitobombas
+758 Glaceoprisma
+759 Sylveotornado
+760 Eevatadura
+761 Phantoexplosión
+762 Drakealiento
+763 Rockeocatapulta
+764 Aereopico
+765 Lephisusto
+766 Dunetemblor
+767 Bandeogolpe
+768 Lireapestoso
+769 Titangarra
+770 Aurafuerza
+771 Auraenergía
+782 Cambiapoder
+790 Desahogo

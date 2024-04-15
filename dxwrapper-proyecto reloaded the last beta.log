@@ -1,0 +1,36 @@
+14572 12:17:39.433 Starting DxWrapper v1.1.6900.22
+14572 12:17:39.434 Running from: C:\Users\Admin\Downloads\Proyecto Reloaded The Last Beta 1.2.1 Full\dxwrapper.dll
+14572 12:17:39.434 Reading config file: C:\Users\Admin\Downloads\Proyecto Reloaded The Last Beta 1.2.1 Full\dxwrapper.ini
+14572 12:17:39.434 HP HP Desktop M01-F1xxx   (Desktop)
+14572 12:17:39.434 HP 8768 A (SMVB) (Desktop)
+14572 12:17:39.434 NVIDIA GeForce GTX 1660 SUPER
+14572 12:17:39.435 Windows 10 Home 64-bit (10.0.19041)
+14572 12:17:39.435 Proyecto Reloaded The Last Beta.exe (PID:6576)
+14572 12:17:39.442 Environment variable __COMPAT_LAYER = "DetectorsAppHealth"
+14572 12:17:39.442 Disabling High DPI Scaling...
+14572 12:17:39.442 Loaded library: user32.dll
+14572 12:17:39.442 Loaded library: shcore.dll
+14572 12:17:39.442 Enabling d3d8to9 wrapper
+14572 12:17:39.442 Loading 'd3d8.dll'...
+14572 12:17:39.442 Hooking d3d8.dll APIs...
+14572 12:17:39.442 Enabling d3d9 wrapper
+14572 12:17:39.442 Loading 'd3d9.dll'...
+14572 12:17:39.444 Loaded library: C:\Windows\system32\d3d9.dll
+14572 12:17:39.444 DxWrapper loaded!
+14572 12:18:26.786 d8_Direct3DCreate8
+14572 12:18:26.786 Starting D3d8to9 v1.12.0.0
+14572 12:18:26.786 Redirecting 'Direct3DCreate8' to --> 'Direct3DCreate9' (220)
+14572 12:18:26.786 d9_Direct3DCreate9
+14572 12:18:26.786 Redirecting 'Direct3DCreate9' ...
+14572 12:18:26.835 Creating interface m_IDirect3D9Ex::m_IDirect3D9Ex (30D28A70)
+14572 12:18:26.835 m_IDirect3D9Ex::LogAdapterNames Adapter: 0 \\.\DISPLAY1 NVIDIA GeForce GTX 1660 SUPER
+14572 12:18:26.969 Creating interface m_IDirect3DDevice9Ex::InitDirect3DDevice (3146C9F8)
+14572 12:18:26.969 Creating interface m_IDirect3DTexture9::m_IDirect3DTexture9 (31486D50)
+14572 12:18:26.969 Creating interface m_IDirect3DSurface9::m_IDirect3DSurface9 (397BD008)
+14572 12:18:26.970 Creating interface m_IDirect3DTexture9::m_IDirect3DTexture9 (31486D80)
+14572 12:18:26.970 Creating interface m_IDirect3DSurface9::m_IDirect3DSurface9 (397BCFD8)
+14572 12:18:26.970 Creating interface m_IDirect3DTexture9::m_IDirect3DTexture9 (314D9CC8)
+14572 12:18:26.970 Creating interface m_IDirect3DSurface9::m_IDirect3DSurface9 (397BD398)
+14572 14:01:44.093 Quiting DxWrapper
+14572 14:01:44.093 Unloading libraries...
+14572 14:01:44.093 DxWrapper terminated!

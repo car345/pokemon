@@ -1,0 +1,27 @@
+Pokémon Reloaded The Last Beta 1.2
+*Bugs solucionados y novedades
+ - Habilidades implementadas: Cortante, Surcavientos.
+ - Actualizadas habilidades de algunos Pokémon.
+ - Solución de sprites de entrenadores bugueados de la versión anterior.
+ - Evolución de Nincada Shiny, ahora Shedinja también será shiny.
+ - Uso de trucos "inconsciente" en el overworld y "me rindo" en combate para posibles softlocks. Advertencia, se pierde el dinero con su uso, así que no lo useis salvo que sea realmente necesario.
+ - Bug que ocurría a veces con el ataque Sonámbulo.
+ - Solucionado problema visual del modal de introducción de números, que entraba en conflicto con las librerías añadidas.
+ - También se ha arreglado el selector de colores, que tenía igualmente errores visuales.
+ - Algunos detalles menores y técnicos.
+
+
+Pokémon Reloaded The Last Beta 1.1
+*Bugs solucionados y novedades
+ - Al seleccionar como rival a Ash con vestuario a rayas, aparecían errores extraños al entrar en el laboratorio de Oak o intentar guardar la partida.
+ - A los usuarios con la fecha incorrecta en el PC se les mostraba un mensaje que les indicaba que la versión era antigua y no podían jugar. Ahora, se os mostrará el mensaje de fecha incorrecta que corresponde, pero para poder jugar, tendréis que poner la hora correcta en el equipo.
+ - Algunos personajes seleccionados con el truco (Control+P) podían dar problemas de partidas corruptas. Es algo que sospechabais muchos, y os confirmo que era un bug que ocurría en ciertos casos. ¡Pero ya se ha resuelto el tema para esta versión!
+ - En la navegación de la Pokédex aparecían errores raros cuando nos desplazábamos hacia abajo.
+ - Al lanzar bayas en la Zona Safari podían aparecer errores inesperados.
+ - Al ser derrotados en el enfrentamiento contra el Team Rocket en Ciudad Naos, no era posible volver a luchar con ellos, con lo cual la Guardería quedaba inaccesible.
+ - El log de combate a veces daba errores de escritura, así que en esta versión se ha desactivado por defecto. Se trata de un archivo que se genera junto al ejecutable que transcribe todos los combates que tienen lugar en el juego. Lo podéis volver a activar/desactivar pulsando F3 e introduciendo "logbattle", pero bajo vuestro propio riesgo.
+ - Ajustado crecimiento de Basculegion, que no estaba sincronizado con el de Basculin y provocaba que se mostraran valores de experiencias raros.
+
+
+Pokémon Reloaded The Last Beta 1.0
+** Versión inicial **
